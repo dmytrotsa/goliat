@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="72" viewBox="0 0 220 72" role="img" aria-labelledby="t d">
+<title id="t">CLIENT 01</title><desc id="d">Miejsce na logo klienta</desc>
+<rect x="1" y="1" width="218" height="70" rx="8" fill="none" stroke="#d6d4cd"/>
+<path d="M24 23h24v24H24z" fill="#e4b13d"/><path d="M30 29h12v12H30z" fill="#181818"/>
+<text x="60" y="34" fill="#2e2e2e" font-family="Arial, sans-serif" font-weight="700" font-size="14">CLIENT 01</text>
+<text x="60" y="50" fill="#8a8a84" font-family="Arial, sans-serif" font-size="10">Transport</text>
+</svg>
